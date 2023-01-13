@@ -1,7 +1,7 @@
 # CMC_Reddit
 
 This is a simple project to pull posts from Reddit according to the listed filters, and to pull comments from selected posts with a depth-first approach using PRAW.
-You can find our codebook (annotation guidelines) and annotated data in the "annotation and data" folder.
+You can find our codebook (annotation guidelines), the posts we pulled, and annotated comments data in the "annotation and data" folder.
 
 ##filters:
   * subreddit: askgaybros
